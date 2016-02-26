@@ -1,7 +1,7 @@
 name: Angel Manor Estate
 favicon: null
-layout_spectrum: 0.8718532032798976
-typography_spectrum: 0.32452299958094954
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.989966381341219
-  lightness: 0.624380347551778
-  saturation: 0.46923914924263954
-  rhythmicContrast: 0.5652037530671805
+    - '#000000'
+    - '#947346'
+    - '#fff9d9'
+    - '#ff0e1c'
+    - '#8602e2'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
